@@ -1,6 +1,7 @@
 **API Prototype Assignment**
-This is to make list of cars follow by its type, model and brand
+This is to make list of dogs follow by its id, name and breed group
 On PostMan:
-http://localhost:8080/car/toyota (Get) <br>
-http://localhost:8080/car/all (Get) <br>
-http://localhost:8080/car/create (Post) <br>
+http://localhost:8080/dog/all (Get) <br>
+http://localhost:8080/dog/1 (Get) <br>
+http://localhost:8080/dogs (Get) <br>
+http://localhost:8080/dog/add (Post) <br>
